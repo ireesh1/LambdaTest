@@ -1,6 +1,6 @@
 public abstract  class abstractstepdefinitions extends abstractsteps{
 	
-	protected web_platform platform;\
+	protected web_platform platform;
 
 	
 void inputForm() throws Exception;
