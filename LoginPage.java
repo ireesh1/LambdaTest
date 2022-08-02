@@ -1,8 +1,5 @@
 public class LoginPage{
 
-public WebElement getQrScanButton(){
-    return driver.findElement(By.id("mobile:id/tab-qr"));
-}
 
 public WebElement getInputForm(){
     return driver.findElement(By.id("//body/div[@id='__next']/div[1]/section[2]"));
